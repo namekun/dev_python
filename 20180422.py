@@ -148,7 +148,7 @@ print(a.issubset({1, 2, 3})) #반대
 strings = ['a', 'as', 'bat', 'car', 'dove', 'python']
 
 print([x.upper() for x in strings if len(x) > 2])
-
+ 
 #dict_comp = {key-expr : valaue-expr for value in collection if condition}
 #set_comp = {expr for value in collection if condition
 
